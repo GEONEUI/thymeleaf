@@ -1,4 +1,4 @@
-package hello.tymeleafbasic;
+package hello.tymeleaf.basic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
